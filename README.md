@@ -1,7 +1,8 @@
 # Betty Suravech
 
-Paris based
+Los Angeles based
 
-- Sr Software Engineer 
-- 10 years Magento development
-- 5 years Improv Comedy 
+- 2 yrs Engineering Manager
+- 11 yrs Software Engineering
+- 10 yrs Magento development
+- 5 yrs Improv Comedy 
